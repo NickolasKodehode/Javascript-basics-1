@@ -116,4 +116,3 @@ function createPassword() {
 
 let newPassword = createPassword()
 console.log(newPassword);
-//test
